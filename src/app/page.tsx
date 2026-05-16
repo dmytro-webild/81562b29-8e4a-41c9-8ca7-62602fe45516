@@ -69,19 +69,19 @@ export default function LandingPage() {
       ]}
       mediaItems={[
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/tailoring-items-arrangement-still-life_23-2149647260.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/tailoring-items-arrangement-still-life_23-2149647260.jpg?_wi=1",
           imageAlt: "Luxurious fabric",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/old-craftsman-trainee-working_482257-79678.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/old-craftsman-trainee-working_482257-79678.jpg?_wi=1",
           imageAlt: "Fine silk",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/close-up-cozy-texture-clothing_23-2149432470.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/close-up-cozy-texture-clothing_23-2149432470.jpg?_wi=1",
           imageAlt: "Soft cashmere",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/bottom-view-pinecones-beige-shawl-dark-surface-copy-place_140725-102769.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/bottom-view-pinecones-beige-shawl-dark-surface-copy-place_140725-102769.jpg?_wi=1",
           imageAlt: "Organic linen",
         },
         {
@@ -202,7 +202,7 @@ export default function LandingPage() {
           quote: "The quality is simply unmatched.",
           tag: "Verified",
           avatarSrc: "http://img.b2bpic.net/free-photo/elegant-stylish-lady-with-collected-hair-dressed-gold-tshirt-neck-jewelry-is-smiling-camera-posing-beige-background_291650-2401.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/tailoring-items-arrangement-still-life_23-2149647260.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/tailoring-items-arrangement-still-life_23-2149647260.jpg?_wi=2",
           imageAlt: "portrait happy customer luxury",
         },
         {
@@ -224,7 +224,7 @@ export default function LandingPage() {
           quote: "Stunning textures every time.",
           tag: "Verified",
           avatarSrc: "http://img.b2bpic.net/free-photo/young-woman-mall_23-2148195370.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/old-craftsman-trainee-working_482257-79678.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/old-craftsman-trainee-working_482257-79678.jpg?_wi=2",
           imageAlt: "portrait happy customer luxury",
         },
         {
@@ -235,7 +235,7 @@ export default function LandingPage() {
           quote: "True luxury in every meter.",
           tag: "Verified",
           avatarSrc: "http://img.b2bpic.net/free-photo/business-owners-preparing-their-store_23-2149300867.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/close-up-cozy-texture-clothing_23-2149432470.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/close-up-cozy-texture-clothing_23-2149432470.jpg?_wi=2",
           imageAlt: "portrait happy customer luxury",
         },
         {
@@ -246,7 +246,7 @@ export default function LandingPage() {
           quote: "Exceptional fabric performance.",
           tag: "Verified",
           avatarSrc: "http://img.b2bpic.net/free-photo/clothes-store-employee-working_23-2148915577.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/bottom-view-pinecones-beige-shawl-dark-surface-copy-place_140725-102769.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/bottom-view-pinecones-beige-shawl-dark-surface-copy-place_140725-102769.jpg?_wi=2",
           imageAlt: "portrait happy customer luxury",
         },
       ]}
